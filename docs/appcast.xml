@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>运营罗盘正式版更新</title>
+    <link>https://github.com/chow9373/operation-compass-updates/releases</link>
+    <language>zh-cn</language>
+    <item>
+      <title>运营罗盘 1.4.0</title>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 05 Oct 2026 04:40:14 +0000</pubDate>
+      <link>https://github.com/chow9373/operation-compass-updates/releases/tag/v1.4.0</link>
+      <sparkle:releaseNotesLink>https://chow9373.github.io/operation-compass-updates/v1.4.0.md</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/chow9373/operation-compass-updates/releases/download/v1.4.0/OperationCompass-1.4.0-build34.zip" sparkle:edSignature="atOlkOqRTeM7jVIqvJMnxMm/7Q7Jdk/5vsiAzR4XxjYpZDLtNq68TabBjkIobQ4CrwubbOMuWD19FbLwsbtqAw==" length="12995562" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
