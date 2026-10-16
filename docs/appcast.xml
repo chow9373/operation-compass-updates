@@ -5,6 +5,16 @@
     <link>https://github.com/chow9373/operation-compass-updates/releases</link>
     <language>zh-cn</language>
     <item>
+      <title>运营罗盘 1.4.1</title>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 16 Oct 2026 03:26:15 +0000</pubDate>
+      <link>https://github.com/chow9373/operation-compass-updates/releases/tag/v1.4.1</link>
+      <sparkle:releaseNotesLink>https://chow9373.github.io/operation-compass-updates/v1.4.1.md</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/chow9373/operation-compass-updates/releases/download/v1.4.1/OperationCompass-1.4.1-build37.zip" sparkle:edSignature="/vKeg4WzG+ZbCuZGXNVRFSekYZPU3FLu7fHsgAPw9jbEDmmnC9EcOy4KJ/6rcdIPr9mG/ZpLYw3mJhmU2KqpDQ==" length="13028138" type="application/octet-stream" />
+    </item>
+    <item>
       <title>运营罗盘 1.4.0</title>
       <sparkle:version>34</sparkle:version>
       <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
